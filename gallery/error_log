@@ -1,0 +1,1 @@
+[30-Apr-2013 05:58:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home5/logipamo/public_html/nasa/picstoria/gallery/affichage.php:2) in /home5/logipamo/public_html/nasa/picstoria/gallery/affichage.php on line 3
